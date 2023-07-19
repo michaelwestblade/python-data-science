@@ -160,3 +160,9 @@ cython_debug/
 #.idea/
 !/Project_06_Materials/namesbystate/baby_names_state.csv
 !/Project_06_Materials/names/us_baby_names.csv
+/Project_06_Materials.zip
+/Project_01_Materials.zip
+/Project_02_Materials.zip
+/Project_03_Materials.zip
+/Project_04_Materials.zip
+/Project_05_Materials.zip
